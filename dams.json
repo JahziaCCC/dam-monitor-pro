@@ -10,7 +10,9 @@
     "seepage": "normal",
     "notes": "متابعة موسمية اعتيادية",
     "alert_fill_threshold": 85,
-    "critical_fill_threshold": 95
+    "critical_fill_threshold": 95,
+    "team_ready": true,
+    "level_change_24h": 1.2
   },
   {
     "name": "سد الملك فهد",
@@ -23,7 +25,9 @@
     "seepage": "normal",
     "notes": "يفضّل متابعة جاهزية البوابات",
     "alert_fill_threshold": 85,
-    "critical_fill_threshold": 95
+    "critical_fill_threshold": 95,
+    "team_ready": true,
+    "level_change_24h": 3.5
   },
   {
     "name": "سد نجران",
@@ -36,7 +40,9 @@
     "seepage": "observed",
     "notes": "رصد رشح محدود يحتاج متابعة",
     "alert_fill_threshold": 85,
-    "critical_fill_threshold": 95
+    "critical_fill_threshold": 95,
+    "team_ready": true,
+    "level_change_24h": 0.7
   },
   {
     "name": "سد تربة",
@@ -49,6 +55,8 @@
     "seepage": "normal",
     "notes": "",
     "alert_fill_threshold": 85,
-    "critical_fill_threshold": 95
+    "critical_fill_threshold": 95,
+    "team_ready": false,
+    "level_change_24h": 0.4
   }
 ]
