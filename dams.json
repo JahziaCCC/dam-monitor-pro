@@ -1,0 +1,54 @@
+[
+  {
+    "name": "سد بيش",
+    "lat": 17.696,
+    "lon": 42.545,
+    "fill_percent": 88,
+    "fault": false,
+    "fault_note": "",
+    "gate_status": "normal",
+    "seepage": "normal",
+    "notes": "متابعة موسمية اعتيادية",
+    "alert_fill_threshold": 85,
+    "critical_fill_threshold": 95
+  },
+  {
+    "name": "سد الملك فهد",
+    "lat": 18.210,
+    "lon": 42.390,
+    "fill_percent": 93,
+    "fault": false,
+    "fault_note": "",
+    "gate_status": "partial",
+    "seepage": "normal",
+    "notes": "يفضّل متابعة جاهزية البوابات",
+    "alert_fill_threshold": 85,
+    "critical_fill_threshold": 95
+  },
+  {
+    "name": "سد نجران",
+    "lat": 17.565,
+    "lon": 44.228,
+    "fill_percent": 79,
+    "fault": false,
+    "fault_note": "",
+    "gate_status": "normal",
+    "seepage": "observed",
+    "notes": "رصد رشح محدود يحتاج متابعة",
+    "alert_fill_threshold": 85,
+    "critical_fill_threshold": 95
+  },
+  {
+    "name": "سد تربة",
+    "lat": 21.205,
+    "lon": 41.620,
+    "fill_percent": 67,
+    "fault": true,
+    "fault_note": "ملاحظة صيانة دورية بالنظام التشغيلي",
+    "gate_status": "normal",
+    "seepage": "normal",
+    "notes": "",
+    "alert_fill_threshold": 85,
+    "critical_fill_threshold": 95
+  }
+]
